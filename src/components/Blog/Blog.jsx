@@ -9,11 +9,11 @@ function Blog() {
     </div>
     <div className="mt-6">
         <div className="bg-neutral-200 w-2/3 ml-64 p-3 rounded-lg">
-             Hello viewers recently i have been studying japanese and preparing for the JLPT N5 
-            along with one of my friend and i am actively looking for a IT job in JAPAN 
-            Every day gaining little knowledge of the language 
-            wish me luck
-            ありがとう
+             Hello viewers recently I have been studying japanese and preparing for the JLPT N5 
+            along with my friend and I am actively looking for an IT job in JAPAN 
+            Every day gaining little knowledge of the language .
+            wish me luck.
+            ありがとう(Thank You)
         </div>
     </div>
     </>
