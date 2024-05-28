@@ -9,7 +9,7 @@ function Blog() {
     </div>
     <div className="mt-6">
         <div className="bg-neutral-200 w-2/3 ml-64 p-3 rounded-lg">
-            hi
+            hello
         </div>
     </div>
     </>
