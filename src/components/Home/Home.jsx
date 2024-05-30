@@ -12,7 +12,7 @@ function Home() {
         <br />
         <p className="text-1.5xl text-gray-500">
           Hey I am your friendly developer and Computer Science
-          UnderGrad,pasionate to build useful products with
+          UnderGrad,passionate. to build useful products with
         </p>
         <p className=" text-gray-500 "> Technology</p>
         <br />
