@@ -30,7 +30,7 @@ function Contact() {
     setstatus("Thanks for Contacting you will be soon replied 😊");
     setTimeout(() => {
       setstatus('');
-    },3000);
+    },10000);
   }
 
   return (
