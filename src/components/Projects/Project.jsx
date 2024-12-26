@@ -13,7 +13,10 @@ function Project() {
           Some projects solve everyday problems.
         </p>
       </div>
-      <div className="bg-neutral-200 p-4 rounded-lg mx-auto w-full sm:w-3/4 lg:w-1/2 mt-6">
+      <div
+        className="bg-neutral-200 p-4 rounded-lg mx-auto w-full sm:w-3/4 lg:w-1/2 mt-6"
+        style={{ backgroundColor: `var(--cardcontainercolor)` }}
+      >
         <p className="text-3xl font-semibold">ZoneMeter</p>
         <p className="text-2xl mt-2">Tech stack used</p>
         <ul className="list-disc ml-6 mt-2">
@@ -41,7 +44,10 @@ function Project() {
         </ul>
       </div>
 
-      <div className="bg-neutral-200 p-4 rounded-lg mx-auto w-full sm:w-3/4 lg:w-1/2 mt-6">
+      <div
+        className="bg-neutral-200 p-4 rounded-lg mx-auto w-full sm:w-3/4 lg:w-1/2 mt-6"
+        style={{ backgroundColor: `var(--cardcontainercolor)` }}
+      >
         <p className="text-3xl font-semibold">Bloodbank</p>
         <p className="text-2xl mt-2">Tech stack used</p>
         <ul className="list-disc ml-6 mt-2">
@@ -67,7 +73,10 @@ function Project() {
         </ul>
       </div>
 
-      <div className="bg-neutral-200 p-4 rounded-lg mx-auto w-full sm:w-3/4 lg:w-1/2 mt-6">
+      <div
+        className="bg-neutral-200 p-4 rounded-lg mx-auto w-full sm:w-3/4 lg:w-1/2 mt-6"
+        style={{ backgroundColor: `var(--cardcontainercolor)` }}
+      >
         <p className="text-3xl font-semibold">Ecobazar</p>
         <p className="text-2xl mt-2">Tech stack used</p>
         <ul className="list-disc ml-6 mt-2">
@@ -91,7 +100,10 @@ function Project() {
         </ul>
       </div>
 
-      <div className="bg-neutral-200 p-4 rounded-lg mx-auto w-full sm:w-3/4 lg:w-1/2 mt-6">
+      <div
+        className="bg-neutral-200 p-4 rounded-lg mx-auto w-full sm:w-3/4 lg:w-1/2 mt-6"
+        style={{ backgroundColor: `var(--cardcontainercolor)` }}
+      >
         <p className="text-3xl font-semibold">Child Tracker</p>
         <p className="text-2xl mt-2">Tech stack used</p>
         <ul className="list-disc ml-6 mt-2">
@@ -113,7 +125,10 @@ function Project() {
         </ul>
       </div>
 
-      <div className="bg-neutral-200 p-4 rounded-lg mx-auto w-full sm:w-3/4 lg:w-1/2 mt-6">
+      <div
+        className="bg-neutral-200 p-4 rounded-lg mx-auto w-full sm:w-3/4 lg:w-1/2 mt-6"
+        style={{ backgroundColor: `var(--cardcontainercolor)` }}
+      >
         <p className="text-3xl font-semibold">ShortURL</p>
         <p className="text-2xl mt-2">Tech stack used</p>
         <ul className="list-disc ml-6 mt-2">
