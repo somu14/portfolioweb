@@ -2,3 +2,23 @@
 @tailwind components;
 @tailwind utilities;
 
+:root {
+  --backgroundcolor: white;
+  --primarycolor: black;
+  --cardcolor: #d3d3d3 ;
+  --cardcontainercolor:#eeecec;
+}
+[theme="dark"] {
+  --backgroundcolor: #1E1E1E;
+  --primarycolor: white;
+  --cardcontainercolor: #303030 ;
+  --cardcolor: #373737 ;
+}
+body {
+  background-color: var(--backgroundcolor);
+  color: var(--primarycolor);
+}
+
+*{
+    transition: all 0.1s ease-in-out;
+}
